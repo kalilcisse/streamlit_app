@@ -1,0 +1,1 @@
+web: pip install . -U && stremlit-app571-run
